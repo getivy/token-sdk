@@ -1,4 +1,4 @@
-# Swan SDK
+# Yapily SDK
 
 This is a project to host [Token](https://token.io) SDK.
 
